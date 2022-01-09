@@ -18,7 +18,9 @@ a{
 a:hover{
     color: #EAF6F6;
 }
-
+.profile{
+         width: 70%;
+}
 .top{
     
     background-color: #EAF6F6;
