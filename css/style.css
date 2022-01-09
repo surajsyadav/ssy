@@ -20,6 +20,7 @@ a:hover{
 }
 .profile{
          width: 70%;
+        margin:auto;
 }
 .top{
     
@@ -73,12 +74,12 @@ h3{
     width: 200px;
 }
 .intro{
-    width: 25%;
+    width: 70%;
     margin:auto;
     
 }
 hr{
-    border: dotted #EAF6F6 6px;
+    border: dotted #66BFBF 6px;
     border-bottom: none;
     width: 4%;
     margin: 50px auto;
